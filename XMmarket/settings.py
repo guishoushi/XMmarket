@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'XMmarket.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'XMmarket',
-        'HOST': '150.158.12.193',
-        'PASSWORD': '123456',
-        'USER': 'test',
-        'PORT': '3306'
+        'NAME': '',
+        'HOST': '',
+        'PASSWORD': '',
+        'USER': '',
+        'PORT': ''
     }
 }
 
